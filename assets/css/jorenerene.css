@@ -1,0 +1,24 @@
+.lead {
+	font-family:"Titillium Web";
+}
+a {
+	border-bottom:1px rgba(0,0,0,0.5) solid;
+	color:black;
+}
+
+hr {
+	border-color:#777;
+}
+
+body {
+	background:#fafafa;
+}
+
+#jorenerene {
+	background-image:url(assets/img/newer.jpg);
+	background-position:center bottom;
+}
+
+.text-uppercase {
+	letter-spacing:1px;
+}
